@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="samp-imgui-base/samp-imgui-base.vcxproj" Id="4748efb8-643a-4918-bf1d-4b4eee2378f8" />
+</Solution>
